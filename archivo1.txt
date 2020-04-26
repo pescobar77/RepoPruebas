@@ -1,0 +1,2 @@
+Este es un archivo de prueba
+Su contenido es solo para probar GIT y hacer experimentos.
