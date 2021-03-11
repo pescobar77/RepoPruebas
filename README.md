@@ -1,2 +1,2 @@
-# RepoPruebas
-Repositorio para pruebas de git 
+# Repositorio para aplicativo Turno Sabroson
+Repositorio para aplicativo de pruebas de git 
