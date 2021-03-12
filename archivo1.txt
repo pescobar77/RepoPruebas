@@ -1,2 +1,4 @@
-Este es un archivo de pruebas asdasdasdasd
+Este es un archivo de pruebas 
 Su contenido es solo para probar GIT y hacer experimentos.
+
+Va una actualizacion para develop
